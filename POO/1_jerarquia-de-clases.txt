@@ -1,0 +1,15 @@
+Diagrama UML
+==================
+Celular
+---------------
+ATRIBUTOS/caracteristicas
+marca:
+conector:
+sistemaOperativo:
+IMEI:
+bateria:
+----------------
+METODO/funciones
+hacerLlamadas()
+recibirLlamadas()
+tomarFotos
